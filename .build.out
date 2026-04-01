@@ -1,0 +1,11 @@
+154 |     const { AnthropicBedrock } = await import('@anthropic-ai/bedrock-sdk')
+                                                    ^
+error: Could not resolve: "@anthropic-ai/bedrock-sdk". Maybe you need to "bun install"?
+    at /Users/xxxiaoling/agent code/claude source code/src/services/api/client.ts:154:47
+
+229 |       import('@anthropic-ai/vertex-sdk'),
+                   ^
+error: Could not resolve: "@anthropic-ai/vertex-sdk". Maybe you need to "bun install"?
+    at /Users/xxxiaoling/agent code/claude source code/src/services/api/client.ts:229:14
+
+Bun v1.3.11 (macOS arm64)

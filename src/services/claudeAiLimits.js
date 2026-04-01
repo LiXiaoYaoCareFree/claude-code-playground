@@ -1,0 +1,9 @@
+export const checkQuotaStatus = undefined
+export const currentLimits = undefined
+export const extractQuotaStatusFromError = undefined
+export const extractQuotaStatusFromHeaders = undefined
+export const getRateLimitErrorMessage = undefined
+export const getRateLimitWarning = undefined
+export const getRawUtilization = undefined
+export const getUsingOverageText = undefined
+export const statusListeners = undefined

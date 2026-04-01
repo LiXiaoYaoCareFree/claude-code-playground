@@ -1,0 +1,16 @@
+export const AbortError = undefined
+export const ClaudeError = undefined
+export const ConfigParseError = undefined
+export const MalformedCommandError = undefined
+export const ShellError = undefined
+export const TelemetrySafeError_I_VERIFIED_THIS_IS_NOT_CODE_OR_FILEPATHS = undefined
+export const TeleportOperationError = undefined
+export const classifyAxiosError = undefined
+export const errorMessage = undefined
+export const getErrnoCode = undefined
+export const getErrnoPath = undefined
+export const hasExactErrorMessage = undefined
+export const isAbortError = undefined
+export const isENOENT = undefined
+export const isFsInaccessible = undefined
+export const toError = undefined

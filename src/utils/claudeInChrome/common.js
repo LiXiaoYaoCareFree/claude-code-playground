@@ -1,0 +1,11 @@
+export const CLAUDE_IN_CHROME_MCP_SERVER_NAME = undefined
+export const getAllBrowserDataPaths = undefined
+export const getAllNativeMessagingHostsDirs = undefined
+export const getAllSocketPaths = undefined
+export const getAllWindowsRegistryKeys = undefined
+export const getSecureSocketPath = undefined
+export const getSocketDir = undefined
+export const isClaudeInChromeMCPServer = undefined
+export const isTrackedClaudeInChromeTabId = undefined
+export const openInChrome = undefined
+export const trackClaudeInChromeTabId = undefined

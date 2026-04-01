@@ -1,0 +1,12 @@
+export const endInteractionPerfettoSpan = undefined
+export const endLLMRequestPerfettoSpan = undefined
+export const endToolPerfettoSpan = undefined
+export const endUserInputPerfettoSpan = undefined
+export const initializePerfettoTracing = undefined
+export const isPerfettoTracingEnabled = undefined
+export const registerAgent = undefined
+export const startInteractionPerfettoSpan = undefined
+export const startLLMRequestPerfettoSpan = undefined
+export const startToolPerfettoSpan = undefined
+export const startUserInputPerfettoSpan = undefined
+export const unregisterAgent = undefined

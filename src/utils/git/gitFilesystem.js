@@ -1,0 +1,13 @@
+export const clearResolveGitDirCache = undefined
+export const getCachedBranch = undefined
+export const getCachedDefaultBranch = undefined
+export const getCachedHead = undefined
+export const getCachedRemoteUrl = undefined
+export const getCommonDir = undefined
+export const getHeadForDir = undefined
+export const getRemoteUrlForDir = undefined
+export const getWorktreeCountFromFs = undefined
+export const isShallowClone = undefined
+export const readWorktreeHeadSha = undefined
+export const resolveGitDir = undefined
+export const resolveRef = undefined

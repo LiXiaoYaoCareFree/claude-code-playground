@@ -1,0 +1,11 @@
+export const Cursor = undefined
+export const getLastKill = undefined
+export const isVimPunctuation = undefined
+export const isVimWhitespace = undefined
+export const isVimWordChar = undefined
+export const pushToKillRing = undefined
+export const recordYank = undefined
+export const resetKillAccumulation = undefined
+export const resetYankState = undefined
+export const updateYankLength = undefined
+export const yankPop = undefined

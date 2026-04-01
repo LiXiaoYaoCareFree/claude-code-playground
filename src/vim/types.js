@@ -1,0 +1,10 @@
+export const FIND_KEYS = undefined
+export const MAX_VIM_COUNT = undefined
+export const OPERATORS = undefined
+export const SIMPLE_MOTIONS = undefined
+export const TEXT_OBJ_SCOPES = undefined
+export const TEXT_OBJ_TYPES = undefined
+export const createInitialPersistentState = undefined
+export const createInitialVimState = undefined
+export const isOperatorKey = undefined
+export const isTextObjScopeKey = undefined

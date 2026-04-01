@@ -1,0 +1,11 @@
+export const VALID_INSTALLABLE_SCOPES = undefined
+export const VALID_UPDATE_SCOPES = undefined
+export const disableAllPluginsOp = undefined
+export const disablePluginOp = undefined
+export const enablePluginOp = undefined
+export const getPluginInstallationFromV2 = undefined
+export const installPluginOp = undefined
+export const isInstallableScope = undefined
+export const isPluginEnabledAtProjectScope = undefined
+export const uninstallPluginOp = undefined
+export const updatePluginOp = undefined

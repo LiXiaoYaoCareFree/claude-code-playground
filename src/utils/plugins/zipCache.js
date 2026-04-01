@@ -1,0 +1,12 @@
+export const atomicWriteToZipCache = undefined
+export const cleanupSessionPluginCache = undefined
+export const convertDirectoryToZipInPlace = undefined
+export const extractZipToDirectory = undefined
+export const getMarketplaceJsonRelativePath = undefined
+export const getPluginZipCachePath = undefined
+export const getSessionPluginCachePath = undefined
+export const getZipCacheKnownMarketplacesPath = undefined
+export const getZipCacheMarketplacesDir = undefined
+export const getZipCachePluginsDir = undefined
+export const isMarketplaceSourceSupportedByZipCache = undefined
+export const isPluginZipCacheEnabled = undefined

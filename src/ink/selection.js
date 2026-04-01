@@ -1,0 +1,17 @@
+export const applySelectionOverlay = undefined
+export const captureScrolledRows = undefined
+export const clearSelection = undefined
+export const createSelectionState = undefined
+export const extendSelection = undefined
+export const findPlainTextUrlAt = undefined
+export const finishSelection = undefined
+export const getSelectedText = undefined
+export const hasSelection = undefined
+export const moveFocus = undefined
+export const selectLineAt = undefined
+export const selectWordAt = undefined
+export const shiftAnchor = undefined
+export const shiftSelection = undefined
+export const shiftSelectionForFollow = undefined
+export const startSelection = undefined
+export const updateSelection = undefined

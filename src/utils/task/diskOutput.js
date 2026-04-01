@@ -1,0 +1,11 @@
+export const DiskTaskOutput = undefined
+export const MAX_TASK_OUTPUT_BYTES = undefined
+export const MAX_TASK_OUTPUT_BYTES_DISPLAY = undefined
+export const appendTaskOutput = undefined
+export const evictTaskOutput = undefined
+export const getTaskOutput = undefined
+export const getTaskOutputDelta = undefined
+export const getTaskOutputDir = undefined
+export const getTaskOutputPath = undefined
+export const initTaskOutput = undefined
+export const initTaskOutputAsSymlink = undefined

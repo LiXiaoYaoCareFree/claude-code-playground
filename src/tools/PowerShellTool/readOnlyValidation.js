@@ -1,0 +1,9 @@
+export const argLeaksValue = undefined
+export const hasSyncSecurityConcerns = undefined
+export const isAllowlistedCommand = undefined
+export const isAllowlistedPipelineTail = undefined
+export const isCwdChangingCmdlet = undefined
+export const isProvablySafeStatement = undefined
+export const isReadOnlyCommand = undefined
+export const isSafeOutputCommand = undefined
+export const resolveToCanonical = undefined

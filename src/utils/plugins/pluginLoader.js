@@ -1,0 +1,9 @@
+export const cachePlugin = undefined
+export const clearPluginCache = undefined
+export const copyPluginToVersionedCache = undefined
+export const getPluginCachePath = undefined
+export const getVersionedCachePath = undefined
+export const getVersionedZipCachePath = undefined
+export const loadAllPlugins = undefined
+export const loadAllPluginsCacheOnly = undefined
+export const loadPluginManifest = undefined

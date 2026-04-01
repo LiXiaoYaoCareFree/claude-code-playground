@@ -1,0 +1,1 @@
+export const isMemoryFileAccess = undefined

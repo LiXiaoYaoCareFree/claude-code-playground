@@ -1,0 +1,9 @@
+export const copyFileHistoryForResume = undefined
+export const fileHistoryCanRestore = undefined
+export const fileHistoryEnabled = undefined
+export const fileHistoryGetDiffStats = undefined
+export const fileHistoryHasAnyChanges = undefined
+export const fileHistoryMakeSnapshot = undefined
+export const fileHistoryRestoreStateFromLog = undefined
+export const fileHistoryRewind = undefined
+export const fileHistoryTrackEdit = undefined

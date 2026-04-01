@@ -1,0 +1,17 @@
+export const addMarketplaceSource = undefined
+export const clearMarketplacesCache = undefined
+export const getDeclaredMarketplaces = undefined
+export const getMarketplace = undefined
+export const getMarketplaceCacheOnly = undefined
+export const getMarketplacesCacheDir = undefined
+export const getPluginById = undefined
+export const getPluginByIdCacheOnly = undefined
+export const loadKnownMarketplacesConfig = undefined
+export const loadKnownMarketplacesConfigSafe = undefined
+export const refreshAllMarketplaces = undefined
+export const refreshMarketplace = undefined
+export const registerSeedMarketplaces = undefined
+export const removeMarketplaceSource = undefined
+export const saveKnownMarketplacesConfig = undefined
+export const saveMarketplaceToSettings = undefined
+export const setMarketplaceAutoUpdate = undefined

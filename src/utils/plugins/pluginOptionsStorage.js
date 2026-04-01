@@ -1,0 +1,9 @@
+export const clearPluginOptionsCache = undefined
+export const deletePluginOptions = undefined
+export const getPluginStorageId = undefined
+export const getUnconfiguredOptions = undefined
+export const loadPluginOptions = undefined
+export const savePluginOptions = undefined
+export const substitutePluginVariables = undefined
+export const substituteUserConfigInContent = undefined
+export const substituteUserConfigVariables = undefined

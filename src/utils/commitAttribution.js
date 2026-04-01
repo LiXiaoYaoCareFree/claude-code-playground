@@ -1,0 +1,9 @@
+export const attributionRestoreStateFromLog = undefined
+export const calculateCommitAttribution = undefined
+export const createEmptyAttributionState = undefined
+export const getRepoClassCached = undefined
+export const incrementPromptCount = undefined
+export const isInternalModelRepo = undefined
+export const isInternalModelRepoCached = undefined
+export const restoreAttributionStateFromSnapshots = undefined
+export const sanitizeModelName = undefined

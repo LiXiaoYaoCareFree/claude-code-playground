@@ -1,0 +1,10 @@
+export const EndTruncatingAccumulator = undefined
+export const capitalize = undefined
+export const countCharInString = undefined
+export const escapeRegExp = undefined
+export const firstLineOf = undefined
+export const normalizeFullWidthDigits = undefined
+export const normalizeFullWidthSpace = undefined
+export const plural = undefined
+export const safeJoinLines = undefined
+export const truncateToLines = undefined

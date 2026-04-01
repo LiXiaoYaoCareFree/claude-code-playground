@@ -1,0 +1,13 @@
+export const executeIndent = undefined
+export const executeJoin = undefined
+export const executeLineOp = undefined
+export const executeOpenLine = undefined
+export const executeOperatorFind = undefined
+export const executeOperatorG = undefined
+export const executeOperatorGg = undefined
+export const executeOperatorMotion = undefined
+export const executeOperatorTextObj = undefined
+export const executePaste = undefined
+export const executeReplace = undefined
+export const executeToggleCase = undefined
+export const executeX = undefined

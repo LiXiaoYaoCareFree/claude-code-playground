@@ -1,0 +1,10 @@
+export const calculateLayoutDimensions = undefined
+export const calculateOptimalLeftWidth = undefined
+export const formatModelAndBilling = undefined
+export const formatWelcomeMessage = undefined
+export const getLayoutMode = undefined
+export const getLogoDisplayData = undefined
+export const getRecentActivity = undefined
+export const getRecentActivitySync = undefined
+export const getRecentReleaseNotesSync = undefined
+export const truncatePath = undefined

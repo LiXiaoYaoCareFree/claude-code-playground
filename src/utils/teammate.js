@@ -1,0 +1,12 @@
+export const getAgentId = undefined
+export const getAgentName = undefined
+export const getDynamicTeamContext = undefined
+export const getParentSessionId = undefined
+export const getTeamName = undefined
+export const getTeammateColor = undefined
+export const hasActiveInProcessTeammates = undefined
+export const hasWorkingInProcessTeammates = undefined
+export const isPlanModeRequired = undefined
+export const isTeamLead = undefined
+export const isTeammate = undefined
+export const waitForTeammatesToBecomeIdle = undefined

@@ -1,0 +1,9 @@
+export const BACKGROUND_BASH_SUMMARY_PREFIX = undefined
+export const LocalShellTask = undefined
+export const backgroundAll = undefined
+export const backgroundExistingForegroundTask = undefined
+export const hasForegroundTasks = undefined
+export const markTaskNotified = undefined
+export const registerForeground = undefined
+export const spawnShellTask = undefined
+export const unregisterForeground = undefined

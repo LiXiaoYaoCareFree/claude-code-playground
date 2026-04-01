@@ -1,0 +1,15 @@
+export const addInstalledPlugin = undefined
+export const getGitCommitSha = undefined
+export const getInMemoryInstalledPlugins = undefined
+export const getPendingUpdatesDetails = undefined
+export const hasPendingUpdates = undefined
+export const initializeVersionedPlugins = undefined
+export const isInstallationRelevantToCurrentProject = undefined
+export const isPluginGloballyInstalled = undefined
+export const isPluginInstalled = undefined
+export const loadInstalledPluginsFromDisk = undefined
+export const loadInstalledPluginsV2 = undefined
+export const migrateFromEnabledPlugins = undefined
+export const removeAllPluginsForMarketplace = undefined
+export const removePluginInstallation = undefined
+export const updateInstallationPathOnDisk = undefined

@@ -1,0 +1,10 @@
+export const addToHistory = undefined
+export const expandPastedTextRefs = undefined
+export const formatImageRef = undefined
+export const formatPastedTextRef = undefined
+export const getHistory = undefined
+export const getPastedTextRefNumLines = undefined
+export const getTimestampedHistory = undefined
+export const makeHistoryReader = undefined
+export const parseReferences = undefined
+export const removeLastFromHistory = undefined

@@ -1,0 +1,13 @@
+export const BSU = undefined
+export const DBP = undefined
+export const DEC = undefined
+export const DFE = undefined
+export const DISABLE_MOUSE_TRACKING = undefined
+export const EBP = undefined
+export const EFE = undefined
+export const ENABLE_MOUSE_TRACKING = undefined
+export const ENTER_ALT_SCREEN = undefined
+export const ESU = undefined
+export const EXIT_ALT_SCREEN = undefined
+export const HIDE_CURSOR = undefined
+export const SHOW_CURSOR = undefined

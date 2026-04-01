@@ -1,0 +1,9 @@
+export const areFileEditsInputsEquivalent = undefined
+export const findActualString = undefined
+export const getEditsForPatch = undefined
+export const getPatchForEdit = undefined
+export const getPatchForEdits = undefined
+export const getSnippetForTwoFileDiff = undefined
+export const normalizeFileEditInput = undefined
+export const preserveQuoteStyle = undefined
+export const stripTrailingWhitespace = undefined

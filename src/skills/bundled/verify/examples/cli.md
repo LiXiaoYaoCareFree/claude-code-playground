@@ -1,0 +1,1 @@
+CLI verify example

@@ -1,0 +1,10 @@
+export const abortPromptSuggestion = undefined
+export const executePromptSuggestion = undefined
+export const generateSuggestion = undefined
+export const getPromptVariant = undefined
+export const getSuggestionSuppressReason = undefined
+export const logSuggestionOutcome = undefined
+export const logSuggestionSuppressed = undefined
+export const shouldEnablePromptSuggestion = undefined
+export const shouldFilterSuggestion = undefined
+export const tryGenerateSuggestion = undefined

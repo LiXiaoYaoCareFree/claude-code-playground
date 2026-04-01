@@ -1,0 +1,1 @@
+export const useNpmDeprecationNotification = undefined

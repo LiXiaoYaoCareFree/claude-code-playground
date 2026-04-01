@@ -1,0 +1,17 @@
+export const dirIsInGitRepo = undefined
+export const findCanonicalGitRoot = undefined
+export const findGitRoot = undefined
+export const getBranch = undefined
+export const getDefaultBranch = undefined
+export const getFileStatus = undefined
+export const getGitDir = undefined
+export const getGitState = undefined
+export const getGithubRepo = undefined
+export const getIsClean = undefined
+export const getIsGit = undefined
+export const getRemoteUrl = undefined
+export const getRepoRemoteHash = undefined
+export const getWorktreeCount = undefined
+export const gitExe = undefined
+export const isCurrentDirectoryBareGitRepo = undefined
+export const stashToCleanState = undefined

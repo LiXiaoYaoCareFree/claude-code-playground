@@ -1,0 +1,15 @@
+export const ALLOWED_OFFICIAL_MARKETPLACE_NAMES = undefined
+export const InstalledPluginsFileSchemaV1 = undefined
+export const InstalledPluginsFileSchemaV2 = undefined
+export const KnownMarketplacesFileSchema = undefined
+export const LspServerConfigSchema = undefined
+export const MarketplaceSourceSchema = undefined
+export const PluginHooksSchema = undefined
+export const PluginIdSchema = undefined
+export const PluginManifestSchema = undefined
+export const PluginMarketplaceEntrySchema = undefined
+export const PluginMarketplaceSchema = undefined
+export const isLocalMarketplaceSource = undefined
+export const isLocalPluginSource = undefined
+export const isMarketplaceAutoUpdate = undefined
+export const validateOfficialNameSource = undefined

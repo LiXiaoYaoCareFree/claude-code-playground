@@ -1,0 +1,17 @@
+export const BINARY_HIJACK_VARS = undefined
+export const awaitClassifierAutoApproval = undefined
+export const bashPermissionRule = undefined
+export const bashToolHasPermission = undefined
+export const clearSpeculativeChecks = undefined
+export const commandHasAnyCd = undefined
+export const consumeSpeculativeClassifierCheck = undefined
+export const executeAsyncClassifierCheck = undefined
+export const getFirstWordPrefix = undefined
+export const getSimpleCommandPrefix = undefined
+export const isNormalizedGitCommand = undefined
+export const matchWildcardPattern = undefined
+export const peekSpeculativeClassifierCheck = undefined
+export const permissionRuleExtractPrefix = undefined
+export const startSpeculativeClassifierCheck = undefined
+export const stripAllLeadingEnvVars = undefined
+export const stripSafeWrappers = undefined

@@ -1,0 +1,1 @@
+export const registerMcpAddCommand = undefined

@@ -1,0 +1,9 @@
+export const detectApk = undefined
+export const detectAsdf = undefined
+export const detectDeb = undefined
+export const detectHomebrew = undefined
+export const detectMise = undefined
+export const detectPacman = undefined
+export const detectRpm = undefined
+export const detectWinget = undefined
+export const getPackageManager = undefined

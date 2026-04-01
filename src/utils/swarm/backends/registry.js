@@ -1,0 +1,11 @@
+export const detectAndGetBackend = undefined
+export const ensureBackendsRegistered = undefined
+export const getBackendByType = undefined
+export const getCachedBackend = undefined
+export const getCachedDetectionResult = undefined
+export const getResolvedTeammateMode = undefined
+export const isInProcessEnabled = undefined
+export const markInProcessFallback = undefined
+export const registerITermBackend = undefined
+export const registerTmuxBackend = undefined
+export const resetBackendDetection = undefined

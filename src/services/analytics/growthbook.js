@@ -1,0 +1,13 @@
+export const checkGate_CACHED_OR_BLOCKING = undefined
+export const checkSecurityRestrictionGate = undefined
+export const checkStatsigFeatureGate_CACHED_MAY_BE_STALE = undefined
+export const getDynamicConfig_BLOCKS_ON_INIT = undefined
+export const getDynamicConfig_CACHED_MAY_BE_STALE = undefined
+export const getFeatureValue_CACHED_MAY_BE_STALE = undefined
+export const getFeatureValue_CACHED_WITH_REFRESH = undefined
+export const getFeatureValue_DEPRECATED = undefined
+export const hasGrowthBookEnvOverride = undefined
+export const initializeGrowthBook = undefined
+export const onGrowthBookRefresh = undefined
+export const refreshGrowthBookAfterAuthChange = undefined
+export const resetGrowthBook = undefined

@@ -1,0 +1,10 @@
+export const clearPluginSettingsBase = undefined
+export const getCachedParsedFile = undefined
+export const getCachedSettingsForSource = undefined
+export const getPluginSettingsBase = undefined
+export const getSessionSettingsCache = undefined
+export const resetSettingsCache = undefined
+export const setCachedParsedFile = undefined
+export const setCachedSettingsForSource = undefined
+export const setPluginSettingsBase = undefined
+export const setSessionSettingsCache = undefined

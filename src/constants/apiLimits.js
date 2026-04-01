@@ -1,0 +1,11 @@
+export const API_IMAGE_MAX_BASE64_SIZE = undefined
+export const API_MAX_MEDIA_PER_REQUEST = undefined
+export const API_PDF_MAX_PAGES = undefined
+export const IMAGE_MAX_HEIGHT = undefined
+export const IMAGE_MAX_WIDTH = undefined
+export const IMAGE_TARGET_RAW_SIZE = undefined
+export const PDF_AT_MENTION_INLINE_THRESHOLD = undefined
+export const PDF_EXTRACT_SIZE_THRESHOLD = undefined
+export const PDF_MAX_EXTRACT_SIZE = undefined
+export const PDF_MAX_PAGES_PER_READ = undefined
+export const PDF_TARGET_RAW_SIZE = undefined

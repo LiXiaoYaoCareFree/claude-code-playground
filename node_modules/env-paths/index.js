@@ -1,6 +1,7 @@
 import path from 'node:path';
 import os from 'node:os';
 import process from 'node:process';
+import {assertSafeFilename} from 'is-safe-filename';
 
 const homedir = os.homedir();
 const tmpdir = os.tmpdir();
@@ -47,14 +48,14 @@ const linux = name => {
 };
 
 export default function envPaths(name, {suffix = 'nodejs'} = {}) {
-	if (typeof name !== 'string') {
-		throw new TypeError(`Expected a string, got ${typeof name}`);
-	}
+	assertSafeFilename(name);
 
 	if (suffix) {
 		// Add suffix to prevent possible conflict with native apps
 		name += `-${suffix}`;
 	}
+
+	assertSafeFilename(name);
 
 	if (process.platform === 'darwin') {
 		return macos(name);
